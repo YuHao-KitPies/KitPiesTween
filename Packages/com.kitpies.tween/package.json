@@ -1,0 +1,16 @@
+{
+  "name": "com.kitpies.tween",
+  "version": "0.1.0",
+  "displayName": "KitPiesTween",
+  "description": "Tween animation for UI Toolkit.",
+  "unity": "2020.1",
+  "keywords": [
+    "HeTao",
+    "Tween",
+    "UI Toolkit"
+  ],
+  "author": {
+    "name": "yuanshengyinqing",
+    "email": "yuanshengyinqing@hetao101.com"
+  }
+}

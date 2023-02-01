@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement>
+        <ui:Button text="Complex Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="Speed Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="Simple Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="Sequene Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="Parallet Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="Repeat Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="Callback Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="Clone Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="To Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="By Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="Delay Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="Easing Samples" display-tooltip-when-elided="true" />
+        <ui:Button text="Reverse Samples" display-tooltip-when-elided="true" />
+    </ui:VisualElement>
+</ui:UXML>

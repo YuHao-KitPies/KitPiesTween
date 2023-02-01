@@ -1,0 +1,7 @@
+{
+    "name": "Tween.Editor",
+    "references": [
+        "Tween.Core",
+        "Tween.Core.Samples"
+    ]
+}
